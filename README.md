@@ -1,2 +1,2 @@
 # insulter
-it instuts you
+it insults you
